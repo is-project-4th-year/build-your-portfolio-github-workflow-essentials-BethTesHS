@@ -2,14 +2,14 @@
 
 ## 1. Student Details
 
-- **Full Name**:
-- **GitHub Username**:
-- **Email**:
+- **Full Name**: Bethelhem Tesfaye Haileselassie
+- **GitHub Username**: BethTesHS
+- **Email**: bethelhemtesfaye95@gmail.com
 
 ## 2. Deployed Portfolio Link
 
 - **GitHub Pages URL**:  
-  _(Provide the live link to your deployed portfolio website)_
+  https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-BethTesHS
 
 ## 3. Learnings from the Git Crash Program
 
@@ -18,7 +18,16 @@ List at least **four key concepts or skills** you learned during the Git crash c
 Example format:
 
 - **Branching**: Helped me separate features and prevent conflicts when working on different sections of the site.
-- _(Continue with other concepts…)_
+
+- **Merging** : Enabled me to combine branches back into the main branch safely, while ensuring that any potential conflicts are resolved accordingly.
+
+- **Commit Messages**: Taught me to write clear, descriptive commit messages, making it easier to track changes and understand what each update in my project did.
+
+- **Milestones** : Allowed me to set clear goals for my project, helping me track progress and stay organized during development.
+
+- **Issues** : Enabled me to log bugs or tasks so I could address them in an orderly manner
+
+- **Projects** : Provided a kanban-style board to visually organize tasks, issues, and milestones for projects, making it easier to manage priorities and see what is in progress, blocked, or completed.
 
 ## 4. Screenshots of Key GitHub Features
 
@@ -33,20 +42,33 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 
 ### A. Milestones and Issues
 
-- Screenshot showing your milestone(s) and the issues linked to it.
+### Milestones
+![1](screenshots/1.png)
+
+### Issues
+![2](screenshots/2.png)
+
 
 ### B. Project Board
 
-- Screenshot of your GitHub Project Board with issues organized into columns (e.g., To Do, In Progress, Done).
+![3](screenshots/3.png)
 
 ### C. Branching
 
-- Screenshot showing your branch list with meaningful naming.
+![4](screenshots/4.png)
 
 ### D. Pull Requests
 
-- Screenshot of a pull request that’s either open or merged and linked to a related issue.
+![5](screenshots/5.png)
 
 ### E. Merge Conflict Resolution
 
-- Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
+
+### Before Resolution
+![6](screenshots/6.png)
+
+### After Resolution
+![7](screenshots/7.png)
+
+### Conflict Resolving Page
+![8](screenshots/8.png)
